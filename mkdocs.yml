@@ -43,8 +43,5 @@ extra:
     - icon: simple/instagram
       link: https://www.instagram.com/animaquina_/
 
-plugins:
-  - projects:
-      cache: false
 
 copyright: Copyright &copy; 2025 Luis Pacheco
