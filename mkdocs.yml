@@ -34,14 +34,14 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com/@codedvoxels
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/luis-arturo-pacheco-16970a71
-    - icon: simple/instagram
-      link: https://www.instagram.com/animaquina_/
+# extra:
+#   social:
+#     - icon: simple/youtube
+#       link: https://youtube.com/@codedvoxels
+#     - icon: simple/linkedin
+#       link: https://linkedin.com/in/luis-arturo-pacheco-16970a71
+#     - icon: simple/instagram
+#       link: https://www.instagram.com/animaquina_/
 
 
 copyright: Copyright &copy; 2025 Luis Pacheco
